@@ -3,7 +3,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=NekoTheDev&margin-w=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiveshTheReal&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoTheDev&theme=dark&layout=compact)
 
 Bye
 ![bye](https://github.githubassets.com/images/mona-whisper.gif)
