@@ -1,4 +1,4 @@
-### 🖐 Hi there ![hello](https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966)
+### <a href='https://www.bacotan-wibu.com'><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"></a>(*´ω｀*).  Hi there ![hello](https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966)
 ### trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=NekoTheDev&theme=monokai&margin-w=15)
 
